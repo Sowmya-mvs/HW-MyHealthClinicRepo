@@ -1,4 +1,4 @@
-#My Health Clinic
+#My Health Clinicr
 
 ## Overview
 My Health Clinic, a sample application built for demo and training purposes, is for a fictious health care provider **HealthClinic.biz**. 
